@@ -1,6 +1,6 @@
-## Hi there 👋
+Game and Full Stack Developer 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -12,10 +12,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
 </div>
-I am a Game and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
-Here are some ideas to get you started:
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a>
+<div><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&bg_color=00000000&theme=radical)
 
 - 🔭 I’m currently working on ...

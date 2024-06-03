@@ -1,5 +1,4 @@
 
-  <h1 align="center">Game and Full Stack Developer 👋</h1>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
   </div>
@@ -9,8 +8,7 @@
     </a>
   </div>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Game Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
@@ -18,16 +16,7 @@
   ---
 
   ### :woman_technologist: About Me :
-    - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
     - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
     
     - :seedling: Exploring Technical Content Writing.
@@ -36,6 +25,7 @@
     
     - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
       Note that 
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;  

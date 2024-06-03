@@ -17,7 +17,7 @@
   ---
 
   ### :man_technologist: About Me :
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
+   <div>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
     - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
     
     - :seedling: Exploring Technical Content Writing.
@@ -26,7 +26,7 @@
     
     - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
       Note that ![]()
-
+  </div> 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -56,6 +56,5 @@
   ### :fire: My Stats :
   <div>
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

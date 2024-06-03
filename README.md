@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&bg_color=00000000&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

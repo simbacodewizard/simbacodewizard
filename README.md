@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>Game and Full Stack Developer 👋</h1>
+
+  <h1 align="center">Game and Full Stack Developer 👋</h1>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
   </div>
@@ -61,6 +61,3 @@
   ### :fire: My Stats :
   <div><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a></div>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&bg_color=00000000&theme=radical)
-  
-
-</div>

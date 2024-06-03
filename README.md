@@ -28,10 +28,10 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="Java" alt="Java" width="100" height="60"/>&nbsp;  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-plain.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-line.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;

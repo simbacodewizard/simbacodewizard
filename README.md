@@ -5,10 +5,10 @@
   <div id="badges" align="center">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
-  <h1>
+  <h1 align="center">
     Game Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -16,7 +16,7 @@
   </div>
   ---
 
-  ### :woman_technologist: About Me :
+  ### :man_technologist: About Me :
     I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
     - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
     
@@ -24,8 +24,12 @@
     
     - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
     
-    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-      Note that 
+    - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+      Note that ![]()
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -50,5 +54,8 @@
   ---
   
   ### :fire: My Stats :
-  <div><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a></div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&bg_color=00000000&theme=radical)
+  <div>
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=simbacodewizard&theme=dark" alt="GitHub Streak" /></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  

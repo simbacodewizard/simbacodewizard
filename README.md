@@ -1,3 +1,5 @@
+### <div align="center">I'm Steven. Blockchain, full-stack and Android developer 👨‍💻 </div>  
+  
 # 💫 About Me:
 ⚡ My motto : 'Client's first'. <br><br>🔭 I’m currently working on Github.<br><br>🌱 I’m currently working with many respectful clients.<br><br>❓ Ask me about anything related to Blockchain, Full stack and Mobile technologies.<br><br>
 
